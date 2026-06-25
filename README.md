@@ -27,7 +27,7 @@ So not much features for a self-driving car. Someday, maybe?
 
 ## Zine Page
 
-![alt text](Rocky.pdf)
+![alt text](Screenshots/zine.png)
 
 ## System Overview
 
