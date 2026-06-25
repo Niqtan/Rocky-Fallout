@@ -1,9 +1,10 @@
-Reference,Item,Description,Quantity,Category,Notes
-EV3,LEGO EV3 Intelligent Brick,Main controller for processing and motor control,1,Controller,Core compute unit
-HUSKYLENS,HUSKYLENS AI Camera,Vision sensor for object detection and tracking,1,Sensing,UART/I2C connection
-US1,Ultrasonic Sensor Module,Distance sensor for obstacle detection,1,Sensing,Front-facing detection
-MOTOR_L,EV3 Large Motor (Left),Left drive motor for movement,1,Actuator,Wheel drive
-MOTOR_R,EV3 Large Motor (Right),Right drive motor for movement,1,Actuator,Wheel drive
-BAT1,Li-ion Battery Pack,Primary power source,1,Power,Capacity depends on build
-PWRBANK,USB Powerbank,5V auxiliary power source,1,Power,For HUSKYLENS or peripherals
-W1,Power Wires,Power distribution wiring,1,Accessories,Varies by length
+Reference,Item,Description,Quantity,Category,Notes,Price_USD,Purchase_Link
+EV3,LEGO EV3 Intelligent Brick,Main controller for processing and motor control,1,Controller,Core compute unit,190,https://www.brickowl.com/catalog/lego-mindstorms-ev3-intelligent-brick-45500
+HUSKYLENS,HUSKYLENS AI Camera,Vision sensor for object detection and tracking,1,Sensing,UART/I2C connection,34.9,https://www.dfrobot.com/product-1922.html
+US1,Ultrasonic Sensor Module,Distance sensor for obstacle detection,1,Sensing,Front-facing detection,4.5,https://www.adafruit.com/product/4007
+MOTOR_L,EV3 Large Motor (Left),Left drive motor for movement,1,Actuator,Wheel drive,25,https://www.brickowl.com/catalog/lego-mindstorms-ev3-large-motor-95658
+MOTOR_R,EV3 Large Motor (Right),Right drive motor for movement,1,Actuator,Wheel drive,25,https://www.brickowl.com/catalog/lego-mindstorms-ev3-large-motor-95658
+BAT1,Li-ion Battery Pack,Primary power source,1,Power,Capacity depends on build,45,https://www.ebay.com/sch/i.html?_nkw=ev3+rechargeable+battery+45501
+PWRBANK,USB Powerbank,5V auxiliary power source,1,Power,For HUSKYLENS or peripherals,15,https://www.amazon.com/s?k=5v+usb+power+bank
+W1,Power Wires,Power distribution wiring,1,Accessories,Varies by length,3,https://www.digikey.com
+Total,,,,,,342.4,

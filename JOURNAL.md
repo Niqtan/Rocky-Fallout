@@ -182,3 +182,17 @@ Anyways, pretty proud of how this turned out into!
 I know I didn't do much of the building cuz I mostly coded this. But yeah, it was enjoyable to say the least!
 
 ![alt text](Screenshots/zine_page.png)
+
+# Entry 13 - STILL testing the challenge run.
+
+Honestly, its kinda getting blurry. We have like 2 days left for the competition and our robot honestly isn't working well. 
+
+It's too INCONSISTENT honestly. It can run but it won't run consistenly to do the challenges. 
+
+I've been trying to figure it out. Hence, that's why in the timelapse, it's just me and my team doing calibration but the movement is too inconsistent.
+
+According to gemini, the problem with this inconsistency is because of the fact that the a small inconvenience cna change up how to robot works.
+
+I'm trying honestly but this is so stressful. It's almost as if nothing's working.
+
+![alt text](Screenshots/crine.png)
